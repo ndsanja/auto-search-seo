@@ -1,0 +1,26 @@
+{
+  "name": "auto-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start1": "node index.js",
+    "start2": "node index.js",
+    "start3": "node index.js",
+    "start4": "node index.js",
+    "start5": "node index.js",
+    "start6": "node index.js",
+    "start7": "node index.js",
+    "start8": "node index.js",
+    "start9": "node index.js",
+    "start10": "node index.js",
+    "start": "node index.js",
+    "auto": "node main.js",
+    "interpeace": "node cari.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.16.0"
+  }
+}
